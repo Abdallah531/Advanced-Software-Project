@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author DreamOnline
- *
- */
-module uuu {
-}
